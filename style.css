@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-weight: 600;
+
+}
+form{
+    background-color: crimson;
+    padding: 10px;
+    border: 1px solid white;
+    width: 200px;
+}
+p{
+    color: crimson;
+}
+div {
+    margin: 20px;
+}
+button{
+    background-color:crimson;
+    margin-left: 20px;
+    font-weight: 600;
+} 
