@@ -1,6 +1,6 @@
 let button = document.querySelector('button');
 
-function fun1 () {
+function fun () {
     let imie = document.getElementById("imie").value
     let nazwisko = document.getElementById("naz").value
     let telefon = document.getElementById("tel").value
@@ -13,4 +13,4 @@ function fun1 () {
     napTel.textContent = telefon
 }
 
-button.onclick = fun1;
+button.onclick = fun;
